@@ -9,7 +9,7 @@
 
 ### 👋 Hello there!
 
-I’m Demeng, a Java developer with 7 years of experience. I create premium and innovative software, from advanced administration tools to immersive never-before-seen game modes.
+Hi! I’m Demeng, a Java developer dedicated to creating premium and innovative software, ranging from advanced administration tools to immersive, never-before-seen game modes.
 
 Check out some of my featured projects and clients I have worked with at https://demeng.dev/.
 
