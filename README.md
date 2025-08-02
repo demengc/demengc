@@ -2,9 +2,9 @@
 
 ### 👋 Hello there!
 
-I'm Demeng, a curious student and software developer passionate about using technology to create real-world impact.
+I'm Demeng, a curious student and developer passionate about using software to create a tangible impact.
 
-I previously led (and still maintain) Demeng Development, my personal brand where I built Minecraft plugins, Discord bots, and RESTful APIs. My open-source work has over 170,000 downloads and has served 1,000+ customers globally. I've also contributed to projects for brands and creators, ranging from advanced admin tools to immersive game modes, that garnered several million impressions per month.
+I previously founded and continue to maintain Demeng Development, creating Minecraft plugins, Discord bots, and RESTful APIs. My open-source projects have accumulated over 170,000 downloads, and my paid products have successfully served 1,000+ customers worldwide. I've also collaborated with brands and creators to deliver advanced admin tools and immersive game modes, achieving several million monthly impressions.
 
 Check out my portfolio and some of my featured projects at https://demeng.dev/.
 
